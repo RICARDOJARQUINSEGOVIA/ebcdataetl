@@ -3,3 +3,5 @@ pandas>=2.2
 plotly>=5.24
 sqlalchemy>=2.0
 psycopg2-binary>=2.9
+
+neon: "j4rqu1NR1c4rD091511568"
